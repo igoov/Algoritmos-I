@@ -2,6 +2,8 @@
 
 int main (){
 
+    //so esqueci do \n
+
     int num, t2 = 0, t3 = 0;
 
     printf("Digite o numero: ");
