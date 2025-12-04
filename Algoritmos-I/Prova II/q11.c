@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//entendi nada
+
 int main (){
 
     int numero;
